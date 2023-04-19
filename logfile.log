@@ -1,0 +1,32 @@
+2023-04-18 20:45:36 INFO  Log:16 - ************
+2023-04-18 20:45:36 INFO  Log:17 - ************
+2023-04-18 20:45:36 INFO  Log:18 - ************This is the beginning of my Test case************
+2023-04-18 20:45:36 INFO  Log:29 - My test case is executing right now
+2023-04-18 20:45:36 INFO  Log:33 - My test case might have some trivial issues
+2023-04-18 20:47:06 INFO  Log:29 - This test case is about to get completed
+2023-04-18 20:47:06 INFO  Log:22 - ######################################
+2023-04-18 20:47:06 INFO  Log:23 - ######################################
+2023-04-18 20:47:06 INFO  Log:24 - #################This test case is finished#####################
+2023-04-18 21:01:47 INFO  Log:16 - ************
+2023-04-18 21:01:47 INFO  Log:17 - ************
+2023-04-18 21:01:47 INFO  Log:18 - ************This is the beginning of my Test case************
+2023-04-18 21:01:47 INFO  Log:29 - My test case is executing right now
+2023-04-18 21:01:47 INFO  Log:33 - My test case might have some trivial issues
+2023-04-18 21:51:01 INFO  Log:16 - ************
+2023-04-18 21:51:01 INFO  Log:17 - ************
+2023-04-18 21:51:01 INFO  Log:18 - ************This is the beginning of my Test case************
+2023-04-18 21:51:01 INFO  Log:29 - My test case is executing right now
+2023-04-18 21:51:01 INFO  Log:33 - My test case might have some trivial issues
+2023-04-18 21:51:07 INFO  Log:29 - This test case is about to get completed
+2023-04-18 21:51:07 INFO  Log:22 - ######################################
+2023-04-18 21:51:07 INFO  Log:23 - ######################################
+2023-04-18 21:51:07 INFO  Log:24 - #################This test case is finished#####################
+2023-04-18 21:55:49 INFO  Log:16 - ************
+2023-04-18 21:55:49 INFO  Log:17 - ************
+2023-04-18 21:55:49 INFO  Log:18 - ************This is the beginning of my Test case************
+2023-04-18 21:55:49 INFO  Log:29 - My test case is executing right now
+2023-04-18 21:55:49 INFO  Log:33 - My test case might have some trivial issues
+2023-04-18 21:56:13 INFO  Log:29 - This test case is about to get completed
+2023-04-18 21:56:13 INFO  Log:22 - ######################################
+2023-04-18 21:56:13 INFO  Log:23 - ######################################
+2023-04-18 21:56:13 INFO  Log:24 - #################This test case is finished#####################
