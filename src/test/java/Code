@@ -1,0 +1,80 @@
+Locator
+is an address or a position of an webelement on the web page
+is used to locate or identify webelements on the webpage
+
+8 Locators:
+- ID
+- Name
+- Tagname
+- xpath
+- linktext
+- partialLinkText
+- CSS Selector
+- ClassName
+
+1.Xpath
+
+a.Relative
+
+    1.by attribute    //tagname[@attribute = 'attribute value']
+    2.by text          //tagname[text() = 'text value']
+    3.By partial attribute value    //tagname[contains(@attribute, 'partial attribute value')]
+    4.by partial text value        //tagname[contains(text(), 'partial text value')]
+
+
+WebElement Commands:
+
+1.clear()
+2.getText()---> get the text
+3.getattribute()--> get the value of a particular attribute
+4. isselected()--> to check if the element is checked (clicked ) ir not
+5. isdisplayed() --> is it there on the screen or not
+6. isEnabled()  ---> is it clickable or are we able to send text to it incase of a text box
+----------------------------------------------CSS----------------------------
+
+1. get an Element using CSS selector
+
+         a. syntax :
+                tagname[attribute = 'attribute value']
+
+
+the beauty about CSS selector is that instead of wiritng the full syntax u can also use shortcuts
+
+ classname ---> tagname [classname='value']  u can write  "tagname.value"   --->   .
+
+ ID      ---->  tagname [id='value']  u can write        "tagname#value"    --->  #
+
+
+
+Note:
+
+     In css selector we donot have this option of getting an element by TEXT
+
+
+
+     but CSS has this contains method that can be used
+                          Syntax: for contains method for css
+
+                          tagname[attribute = 'partial attribute value']   where means contains here
+
+       CSS has someother amazing features to like
+                           a.starts-with method in css:
+                                tagname[attribute ^= 'starting attribute value'] where ^ means starts with
+
+                                example:  <input id="abra ca dabra hello" ,email ="rote"/>
+                                CSS using starts with method:
+
+                                              input[id ^= 'abra ca dab']
+
+
+                           b.ends-with method in css:
+                                $ symbol represents ends-with method in css
+                            Syntax:
+                                tagname[attribute $= 'ending attribute value']
+
+                                Example:
+                                    example: <input id="abra ca dabra hello" ,email ="rote"/>
+
+                                    write the CSS selector using ends with method:
+                                     input[id $= 'hello']
+
